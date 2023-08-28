@@ -7,6 +7,8 @@ Welcome to RevolutionaryShipping, a compatibility mod that seamlessly integrates
 
 ## Features
 
+- **Ship Fuel** Updates Cargo-Ships fuel to use Industrial revolution fuel types
+
 ## Installation
 
 1. Ensure you have Factorio version 1.1.x installed.
