@@ -1,14 +1,14 @@
 {
-	"name": "example-mod",
-	"version": "0.5.2",
+	"name": "RevolutionaryShipping",
+	"version": "0.0.1",
 	"factorio_version": "1.1",
-	"title": "Example mod",
-	"author": "Put your nickname",
-	"contact": "Put your contacts",
-	"homepage": "Put a link",
-	"description": "See locale/en ",
+	"title": "Revolutionary Shipping",
+	"author": "Alienmenno",
+	"contact": "",
+	"homepage": "",
+	"description": "Compatiblity mod for Cargo Ships mod to use Industrial Revolution 3 fuel types",
 	"dependencies": [
-		"? zk-lib >= 0.10.0",
-		"(?) gvv"
+		"? IndustrialRevolution3 >= 3.1.5",
+		"? cargo-ships >= 0.2.3"
 	]
 }
