@@ -5,9 +5,9 @@ if mods["IndustrialRevolution3"] and mods["cargo-ships"] then
     local ir3_fuel_categories = {"steam-cell","canister","barrel","battery"}
     
     local vehicles = {
-        "cargo_ship_engine" = locomotive,
-        "boat_engine" = locomotive,
-        "indep-boat" = car,
+        ["cargo_ship_engine"] = locomotive,
+        ["boat_engine"] = locomotive,
+        ["indep-boat"] = car,
     }
     
     for name,vehicle in pairs(vehicles) do
